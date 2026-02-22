@@ -1,4 +1,4 @@
-package net.layla.net.layla.ext;
+package net.layla.ext;
 
 import net.layla.dao.IDao;
 
