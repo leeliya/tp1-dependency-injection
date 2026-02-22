@@ -1,0 +1,2 @@
+net.layla.dao.DaoImpl
+net.layla.metier.MetierImpl
