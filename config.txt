@@ -1,2 +1,2 @@
-net.layla.ext.DaoImplV2
+net.layla.dao.DaoImpl
 net.layla.metier.MetierImpl
