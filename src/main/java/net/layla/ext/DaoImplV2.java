@@ -1,7 +1,9 @@
 package net.layla.ext;
 
 import net.layla.dao.IDao;
+import org.springframework.stereotype.Component;
 
+@Component("d2")
 public class DaoImplV2 implements IDao {
 
     @Override
